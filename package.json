@@ -1,0 +1,8 @@
+{
+	"name":	"static.js",
+	"description":	"A static Node.js+Express webpage server",
+	"version":	"1.0",
+	"dependencies":	{
+		"express":	"3.*"
+	}
+}
