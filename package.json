@@ -1,7 +1,17 @@
 {
 	"name":	"static.js",
 	"description":	"A static Node.js+Express webpage server",
-	"version":	"1.0",
+	"author":	{
+		"name":	"James Game",
+		"email":"james.game.64@gmail.com",
+		"url":	"http://twitter.com/mrgame64"
+	},
+	"version":	"1.0.0",
+	"license":	"MIT",
+	"repository":	{
+		"type": "git",
+		"url": "http://github.com/mrgame64/static.js.git"
+  	},
 	"dependencies":	{
 		"express":	"3.*"
 	}
